@@ -1,5 +1,5 @@
-./small-docker
-small-docker
-/small-docker
+./small-docker-build
+small-docker-build
+/small-docker-build
 .env
 /.env
